@@ -1,7 +1,7 @@
 {
   "name": "correios-web-scrap",
   "version": "0.0.1",
-  "description": "An scrapper to get an Brazil address based on postal code(zip code)",
+  "description": "An scrapper to get a Brazil address based on postal code(zip code)",
   "author": "Matheus Carvalho",
   "private": true,
   "license": "UNLICENSED",
